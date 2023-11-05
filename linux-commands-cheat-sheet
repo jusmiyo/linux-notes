@@ -1,0 +1,4 @@
+#### Commands Cheat-Sheet
+
+!! - exxecute previous command
+rpm -qa - query installed packages in Red-hat based systems
